@@ -1,9 +1,6 @@
 # Login-Page
 a login page created using HTML, CSS, and JavaScript
 
-
-
-
 -------------------------------------------------------------------------------
 
 The page contains a login button but it will not submit input data necessarily. 
