@@ -3,7 +3,8 @@ a login page created using HTML, CSS, and JavaScript
 
 
 
---------------------------------------------
+
+-------------------------------------------------------------------------------
 
 The page contains a login button but it will not submit input data necessarily. 
 The username and password are not sent to a backend or server to be validated.
