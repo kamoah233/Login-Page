@@ -2,6 +2,8 @@
 a login page created using HTML, CSS, and JavaScript
 
 ![Login Page Image] (Login-Page/image.png)
+<img width="960" alt="image" src="https://github.com/kamoah233/Login-Page/assets/112496906/a79da16e-11c2-48be-8586-0fe2e88e00cc">
+
 
 -------------------------------------------------------------------------------
 
